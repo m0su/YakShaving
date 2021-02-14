@@ -1,1 +1,1 @@
-- API 키 숨겨보기
+- [API 키 숨겨보기](https://github.com/m0su/YakShaving/blob/master/gyp.md)
